@@ -3,7 +3,8 @@
     <font face="標楷體">  
     <font size=5>
     <center>
-      <h1>江　　糧　　有</h1></center></font></head>
+      <h1>江　　糧　　有</h1></center></font>
+  </head>
   <body>
     <font face="標楷體">
     <center>
