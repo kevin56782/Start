@@ -1,6 +1,7 @@
 <html>
   <head>
-    <font face="標楷體">
+    <font face="標楷體">  
+    <font size=6>
     <center>
       <h1>江　　糧　　有</h1></center></font>
   </head>
