@@ -1,8 +1,7 @@
 <html>
   <head>
     <center>
-    <h1>江糧有</h1>
-      </center>
+      <h1>江糧有</h1></center>
   </head>
   <body>
     <font color="red">
