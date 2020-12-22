@@ -1,10 +1,10 @@
 <html>
   <head>
     <font face="標楷體">  
-    <font size=6>
+    <font size=5>
     <center>
       <h1>江　　糧　　有</h1></center></font>
-  </head>
+    </head>
   <body>
     <font face="標楷體">
     <center>
